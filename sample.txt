@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changed to something different
+=======
+Test #3
+>>>>>>> c97108f11b7fa58f33a9872a76563999b60987db
